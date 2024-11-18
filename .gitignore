@@ -13,7 +13,7 @@ _*/
 .idea/
 
 # Microsoft Powerpoint
-**/*.pptx
+#**/*.pptx
 
 # Mac OS
 **/.DS_Store
